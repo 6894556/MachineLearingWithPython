@@ -4,7 +4,10 @@
 
 An engaging introduction to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) with Python
 
-## TL;DR
+## starter 폴더 
+- 강의를 시청하며 열어야할 폴더
+- 강의를 시청하며 Rune의 설명을 필기하고 코드를 따라한다.
+## final
 
 There are two options.
 
